@@ -1,2 +1,2 @@
 # Enhancing-USB-Security-A-Multi-Layered-Framework-for-Detecting-Mitigating-BadUSB-Attacks
-USB Guard is a multi-layered security framework that identifies hidden USB threats using behavioral analysis, power profiling, and machine learning. It merges cybersecurity and AI to detect BadUSB attacks, offering a smart, adaptive, and practical approach to modern device protection.
+This is my USB Guard project — a research-driven framework that unites cybersecurity and AI/ML. It integrates behavioral analysis, power profiling, metadata validation, CAPTCHA-based verification, and adaptive anomaly detection to identify and prevent evolving BadUSB and hardware-level threats.
